@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     	<widget xmlns   = "http://www.w3.org/ns/widgets"
 		xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = "es.juntadeandalucia.mapea.sepim.benalup"
+		id          = "es.juntadeandalucia.mapea.sepim.almonaster"
 		versionCode = "100" 
 		version     = "1.0.0" >
 
-	<name>Guía de Benalup-Casas Viejas</name>
+	<name>Guía de Almonaster la Real</name>
 	<description>
-		En esta guía conoceremos la amplia oferta turística de Benalup-Casas Viejas.
+		En esta guía encontraras toda la información de interés para visitar Almonaster la Real.
 	</description>
 	<author email="sepim.ieca@juntadeandalucia.es" href="http://www.callejerodeandalucia.es/">
 		Junta de Andalucía
